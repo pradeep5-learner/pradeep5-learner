@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Pradeep Kumar Reddy
+# 👋 Hi, I'm Pradeep Kumar Reddi
 
 ### 3rd Year CSE Student
-### Full-Stack Web Developer | MongoDB | AI
+### Software Developer | Full-Stack Web Developer | AI
 ### Passionate about Building Practical Web Applications
 
 I am a 3rd-year Computer Science Engineering student passionate about building practical, user-focused applications and solving real-world problems through technology.
