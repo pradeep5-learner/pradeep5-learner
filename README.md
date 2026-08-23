@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Pradeep Kumar Reddi
+# 👋 Hi, I'm Pradeep Kumar Reddy
 
-### Full-Stack Web Developer | Node.js | MongoDB | AI
+### 3rd Year CSE Student
+### Full-Stack Web Developer | MongoDB | AI
+### Passionate about Building Practical Web Applications
 
-I am a passionate web development enthusiast who enjoys building practical, user-focused applications and solving real-world problems through technology.
+I am a 3rd-year Computer Science Engineering student passionate about building practical, user-focused applications and solving real-world problems through technology.
 
 I am currently strengthening my full-stack development and Data Structures & Algorithms skills while looking for opportunities to gain hands-on industry experience.
 
@@ -67,7 +69,7 @@ An AI-powered full-stack tourism platform designed to help users discover, organ
 
 ### AI & APIs
 
-- Google Gemini API
+- Google Gemini AI
 - Google Maps Integration
 
 ### Tools & Platforms
